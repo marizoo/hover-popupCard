@@ -1,7 +1,6 @@
 
 ## DESCRIPTION:
 - HTML + CSS Pop up card on hover.
-- [Youtube Video of the App](https://youtu.be/J_h2WUWCQFc)
 
 
 ## TECH STACKS:
